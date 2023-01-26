@@ -11,3 +11,15 @@ I hope you enjoy using it.
 ## Setup
 
 Still in progress, check back!
+
+## Available scripts
+
+To run on the web use script below
+
+```shell
+npx expo install react-native-web@~0.18.7 react-dom@18.0.0 @expo/webpack-config@^0.17.0
+```
+
+Then run `npm run web`
+
+For Android and IOS, you need to set the sdk path and others.
